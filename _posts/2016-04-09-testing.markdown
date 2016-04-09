@@ -1,0 +1,21 @@
+---
+published: true
+title: Testing
+layout: post
+---
+This is the first test post.  I am not sure if markdown is supported, will try it out.
+
+Testing
+======
+
+Breakfast stuff
+---------------------
+* toast
+* orange juice
+* coffee
+* Sugar Crisp (C)
+
+**bold text**, `monospace text`
+
+The [news](http://www.infoshop.org/)
+
